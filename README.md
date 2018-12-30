@@ -1,8 +1,6 @@
 
-
-An example for a backpropagation Neuronal Network with Keras and TensorFlow, reading data from an EXASOL database and stores the result in the database.
-
-Wolfgang Kapferer Juni 2018
+## Example for a backpropagation Neuronal Network with Keras and TensorFlow
+An example-implementation for a backpropagation Neuronal Network with Keras and TensorFlow. It reads data from an EXASOL database and stores the result in the database.
 
 Data from https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
