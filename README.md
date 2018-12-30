@@ -1,12 +1,10 @@
-Readme
 
-Ein Beispiel für den Template Part des Containers für Maschinelles Lernen
 
-Es soll mittels der Daten einer Telefonumfrage einer portugisischen Bank ermittelt werden, ob aufgrund der Attribute eines Kunden ermittelbar ist, ob er ein Festgeld Angebot annimmt oder nicht.
+An example for a backpropagation Neuronal Network with Keras and TensorFlow, reading data from an EXASOL database and stores the result in the database.
 
 Wolfgang Kapferer Juni 2018
 
-Daten https://archive.ics.uci.edu/ml/datasets/bank+marketing
+Data from https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ------------------------------------------------------------------------
 predictorMain.py
 A simple python programm for a backprop Neuronal Network with
